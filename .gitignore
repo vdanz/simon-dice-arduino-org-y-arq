@@ -1,0 +1,27 @@
+# Archivos generados por Arduino IDE que no deben ser versionados
+*.hex
+*.elf
+*.bin
+*.eep
+*.map
+*.lst
+*.srec
+*.sym
+*.o
+*.d
+*.gcno
+*.gcda
+*.gcov
+*.su
+
+# Directorios de compilación y temporales
+build/
+.arduino/
+.vs/
+*.vspscc
+*.vssscc
+*.bak
+*.tmp
+
+# Archivos de configuración del IDE que no son universales
+*.vscode/
